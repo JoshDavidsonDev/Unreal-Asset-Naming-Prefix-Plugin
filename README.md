@@ -7,6 +7,8 @@ Supported Version: Unreal 5.4
 
 **Asset Naming Prefix** is an editor plugin for Unreal Engine 5 that automatically enforces your team’s asset‐naming conventions. You define a DataTable mapping each asset class (e.g. `Material`, `Blueprint`) to a prefix (e.g. `M_`, `BP_`), and new assets are renamed on creation. You can also run it manually on existing assets or entire folders via the Content Browser context menu.
 
+Overview and installation Guide: https://youtube.com/playlist?list=PLpjKlZ2EDiUPQ_TrEhypYRPTDBQwbzUnc&si=O6DH3ZHqOH1gFt3k
+
 ## Features
 
 - ⚙️ **Auto-Prefixing**: As soon as you create a new asset under your configured paths, it’s renamed to `<Prefix><AssetName>`.  
